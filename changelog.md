@@ -1,12 +1,8 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Terra Hunter (Captain) & Harshita Sharma (First Mate) & Taryn Stickney (Second Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-
-## *Version x.x*
-
-Release Date: Jul 26, 2027
 
 ## New Components
 
