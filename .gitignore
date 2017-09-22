@@ -6,3 +6,5 @@
 !*/cache/.htaccess
 /nbproject/private/
 /nbproject/
+#The .DS_Store file for Mac OS
+.DS_Store
