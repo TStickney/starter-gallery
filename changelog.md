@@ -6,3 +6,4 @@
     Taryn Stickney (A00******)
 
 1. Changed the website from Static to Trivial CI.
+2. Changed the website from Trivial to Basic CI.
